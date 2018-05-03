@@ -1,4 +1,4 @@
-import { Stream } from "../tagged/src/types/types";
+import { Stream } from "../../src/types/types";
 import * as flyd from "flyd";
 const { stream, on } = flyd;
 export interface Task {

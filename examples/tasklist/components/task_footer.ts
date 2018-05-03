@@ -1,4 +1,4 @@
-import { html, EvaluatedTemplate, Sources, component } from "../../tagged/src/";
+import { html, EvaluatedTemplate, Sources, component } from "../../../src/";
 import { Stream } from "../../tagged/src/types/types";
 import * as flyd from "flyd";
 import "./add_task";
