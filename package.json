@@ -1,0 +1,19 @@
+{
+  "name": "tagged",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "array-sort": "1.0.0",
+    "flyd": "0.2.6",
+    "typescript": "2.8.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
